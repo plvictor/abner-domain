@@ -7,6 +7,7 @@ addSubDomain({
     email: 'souzavictorpaulo2006@gmail.com',
   },
   record: {
+    A: '216.24.57.1',
     NS: ['chan.ns.cloudflare.com', 'yevgen.ns.cloudflare.com'],
     CNAME: 'abner-dash.onrender.com'
   }
