@@ -10,4 +10,5 @@ addSubDomain({
     CNAME: 'abner-dash.onrender.com',
     NS: ['chan.ns.cloudflare.com', 'yevgen.ns.cloudflare.com']
   },
+  proxy: false
 });
